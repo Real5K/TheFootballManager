@@ -1,0 +1,133 @@
+{
+    "teams": [
+        {
+            "name": "Manchester City",
+            "league": "Premier League",
+            "league_position": 1,
+            "points": 82,
+            "manager": "Pep Guardiola",
+            "stadium": "Etihad Stadium",
+            "city": "Manchester",
+            "country": "England"
+        },
+        {
+            "name": "Real Madrid",
+            "league": "La Liga",
+            "league_position": 2,
+            "points": 78,
+            "manager": "Carlo Ancelotti",
+            "stadium": "Santiago Bernab\u00e9u",
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        {
+            "name": "Bayern Munich",
+            "league": "Bundesliga",
+            "league_position": 2,
+            "points": 73,
+            "manager": "Thomas Tuchel",
+            "stadium": "Allianz Arena",
+            "city": "Munich",
+            "country": "Germany"
+        }
+    ],
+    "players": [
+        {
+            "name": "Erling Haaland",
+            "team": "Manchester City",
+            "position": "Striker",
+            "nationality": "Norway",
+            "age": 23,
+            "rating": 91,
+            "market_value": 180000000,
+            "stats": {
+                "goals": 33,
+                "assists": 12,
+                "passes": 750,
+                "tackles": 15,
+                "shots_on_target": 89,
+                "minutes_played": 2340,
+                "yellow_cards": 2,
+                "red_cards": 0
+            }
+        },
+        {
+            "name": "Jude Bellingham",
+            "team": "Real Madrid",
+            "position": "Midfielder",
+            "nationality": "England",
+            "age": 20,
+            "rating": 88,
+            "market_value": 150000000,
+            "stats": {
+                "goals": 21,
+                "assists": 12,
+                "passes": 1200,
+                "tackles": 45,
+                "shots_on_target": 52,
+                "minutes_played": 2815,
+                "yellow_cards": 4,
+                "red_cards": 0
+            }
+        },
+        {
+            "name": "Harry Kane",
+            "team": "Bayern Munich",
+            "position": "Striker",
+            "nationality": "England",
+            "age": 30,
+            "rating": 90,
+            "market_value": 95000000,
+            "stats": {
+                "goals": 35,
+                "assists": 12,
+                "passes": 890,
+                "tackles": 21,
+                "shots_on_target": 95,
+                "minutes_played": 2920,
+                "yellow_cards": 3,
+                "red_cards": 0
+            }
+        },
+        {
+            "name": "Kevin De Bruyne",
+            "team": "Manchester City",
+            "position": "Midfielder",
+            "nationality": "Belgium",
+            "age": 32,
+            "rating": 91,
+            "market_value": 85000000,
+            "stats": {
+                "goals": 16,
+                "assists": 29,
+                "passes": 1850,
+                "tackles": 32,
+                "shots_on_target": 45,
+                "minutes_played": 2650,
+                "yellow_cards": 2,
+                "red_cards": 0
+            }
+        },
+        {
+            "name": "Vinicius Jr",
+            "team": "Real Madrid",
+            "position": "Winger",
+            "nationality": "Brazil",
+            "age": 23,
+            "rating": 89,
+            "market_value": 150000000,
+            "stats": {
+                "goals": 21,
+                "assists": 16,
+                "passes": 1100,
+                "tackles": 28,
+                "shots_on_target": 65,
+                "minutes_played": 2750,
+                "yellow_cards": 5,
+                "red_cards": 1
+            }
+        }
+    ],
+    "transfer_history": [],
+    "match_history": []
+}
