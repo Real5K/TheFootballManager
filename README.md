@@ -112,7 +112,7 @@ class Analytics:
 2. Ensure the file follows the specified data structure
 3. Run the program:
 ```bash
-python football_management.py
+python main.py
 ```
 
 ### Basic Operations
