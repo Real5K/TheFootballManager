@@ -46,11 +46,6 @@ The Advanced Football Management System is a command-line application that provi
   - pathlib (built-in)
   - typing (built-in)
 
-### System Requirements
-- Minimum 4GB RAM
-- 100MB available disk space
-- Terminal/Command prompt access
-
 ## Data Structure
 
 ### Main Data File (data.json)
